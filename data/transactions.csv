@@ -1,0 +1,3 @@
+timestamp,action,book_id,title,borrower
+2026-10-16 05:18:35,ISSUE,01,The Volcano,Shyam
+2026-10-16 05:19:35,RETURN,01,The Volcano,shyam

@@ -1,1 +1,3 @@
-
+book_id,title,author,total_copies,available_copies
+01,The Volcano,RK,5,5
+02,The Earth,RSK,3,3
